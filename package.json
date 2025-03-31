@@ -1,0 +1,15 @@
+{
+  "name": "@9sri/oltag",
+  "version": "1.0.0",
+  "description": "online tag",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node main"
+  },
+  "author": "9r3i",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
